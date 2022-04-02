@@ -1,20 +1,7 @@
-/**
- * @file binary.h
- * @author your name (you@domain.com)
- * @brief Header file for binary (base-2) method
- * @version 0.1
- * @date 2021-04-09
- *
- * @copyright Copyright (c) 2021
- *
- */
+
 #include <stdio.h>
 
 
-/**
- * @brief Structures for storing the input & output stream
- *
- */
 typedef struct Conversion_bin
 {
     int binary_op[50];
@@ -27,12 +14,7 @@ typedef struct Input_bin
 } Input_bin;
 Conversion_bin transformBinary(Input_bin a);
 
-/**
- * @brief Function to convert a number from decimal to binary system
- *
- * @param a
- * @return Conversion_bin
- */
+
 Conversion_bin transformBinary(Input_bin a)
 {
     int num = a.num, b = a.base;
