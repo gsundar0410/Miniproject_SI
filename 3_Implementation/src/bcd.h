@@ -5,10 +5,7 @@ typedef struct Conversion_bcd
     int bcd_op[50];
     int arr_l;
 } Conversion_bcd;
-/**
- * @brief Structures for storing the input & output stream
- *
- */
+
 
 typedef struct Input_bcd
 {
