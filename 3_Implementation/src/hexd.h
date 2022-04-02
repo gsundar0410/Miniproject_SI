@@ -1,19 +1,7 @@
-/**
- * @file hexadecimal.h
- * @author your name (you@domain.com)
- * @brief Header file for hexadecimal (base-16) method
- * @version 0.1
- * @date 2021-04-09
- *
- * @copyright Copyright (c) 2021
- *
- */
+
 #include <stdio.h>
 #include <stdlib.h>
-/**
- * @brief Structures for storing the input & output stream
- *
- */
+
 typedef struct Conversion_hex
 {
     char hexadecimal_op[50];
@@ -26,12 +14,7 @@ typedef struct Input_hex
 } Input_hex;
 Conversion_hex transformHexadecimal(Input_hex a);
 
-/**
- * @brief Function to convert a number from decimal to hexadecimal system
- *
- * @param a
- * @return Conversion_hex
- */
+
 Conversion_hex transformHexadecimal(Input_hex a)
 {
     int num = a.num, b = a.base;
