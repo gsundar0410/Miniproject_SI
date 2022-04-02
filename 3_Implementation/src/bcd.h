@@ -1,13 +1,4 @@
-/**
- * @file bcd.h
- * @author your name (you@domain.com)
- * @brief Header file for Binary Coded Decimal (BCD) method
- * @version 0.1
- * @date 2021-04-08
- *
- * @copyright Copyright (c) 2021
- *
- */
+
 #include <stdio.h>
 typedef struct Conversion_bcd
 {
@@ -25,12 +16,7 @@ typedef struct Input_bcd
 } Input_bcd;
 Conversion_bcd transformBcd(Input_bcd a);
 
-/**
- * @brief Function to convert a number from decimal to BCD system
- *
- * @param a
- * @return Conversion_bcd
- */
+
 Conversion_bcd transformBcd(Input_bcd a)
 {
     int num = a.num;
