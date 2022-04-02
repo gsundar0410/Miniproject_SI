@@ -1,6 +1,7 @@
-![code_Quality_score](https://app.codiga.io/project/32457/dashboard) 
-[![Codacy Badge](https://app.codacy.com/gh/gsundar0410/Miniproject_SI/dashboard)](hhttps://app.codacy.com/gh/gsundar0410/Miniproject_SI/dashboard)
-[![CI](https://github.com/gsundar0410/Miniproject_SI)](https://github.com/gsundar0410/Miniproject_SI)
+![code_Quality_score](https://api.codiga.io/project/32457/score/svg)
+![code_grade](https://api.codiga.io/project/32457/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fe3913204d764467a97e538c13ad6286)](https://www.codacy.com/gh/gsundar0410/Miniproject_SI/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gsundar0410/Miniproject_SI&amp;utm_campaign=Badge_Grade)
+
 # Mini Project - Number Converters
 
 ## Introduction: 
