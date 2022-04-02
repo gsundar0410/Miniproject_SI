@@ -1,5 +1,5 @@
 ![code_Quality_score](https://app.codiga.io/project/32457/dashboard) 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f3cebf912c834b12a8368d578948851a)](https://www.codacy.com/gh/3114-HM/Stepin_Conversions/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=3114-HM/Stepin_Conversions&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/gh/gsundar0410/Miniproject_SI/dashboard)](hhttps://app.codacy.com/gh/gsundar0410/Miniproject_SI/dashboard)
 [![CI](https://github.com/gsundar0410/Miniproject_SI)](https://github.com/gsundar0410/Miniproject_SI)
 # Mini Project - Number Converters
 
